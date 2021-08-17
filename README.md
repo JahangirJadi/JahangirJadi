@@ -7,6 +7,6 @@
 
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jahangirjadi&show_icons=true&locale=en" alt="JahangirJadi" /></p>
-<p>&nbsp;<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=jahangirjadi&layout=card/></p>
+<p>&nbsp;<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=jahangirjadi&layout=compact/></p>
 
 
