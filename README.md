@@ -7,7 +7,7 @@
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-<img src="https://github-readme-stats.vercel.app/api?username=jahangirjadi&show_icons=true&locale=en" alt="JahangirJadi" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahangirjadi&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jahangirjadi&show_icons=true&locale=en" alt="JahangirJadi" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahangirjadi&layout=compact"/>
 </details>
 
