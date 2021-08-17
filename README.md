@@ -5,8 +5,9 @@
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me **jahangir.jadi@gmail.com**
 
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jahangirjadi&show_icons=true&locale=en" alt="JahangirJadi" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahangirjadi&layout=compact"/></p>
-
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+<img src="https://github-readme-stats.vercel.app/api?username=jahangirjadi&show_icons=true&locale=en" alt="JahangirJadi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahangirjadi&layout=compact"/>
+</details>
 
