@@ -6,8 +6,7 @@
 - 📫 How to reach me **jahangir.jadi@gmail.com**
 
 
-#<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jahangirjadi&show_icons=true&locale=en" alt="JahangirJadi" /></p>
-<img height="180em" src="https://jahangirjadi-stats.vercel.app/api?username=jahangirjadi&show_icons=true&hide_border=true&count_private=true" />
-<img height="180em" src="https://jahangirjadi-stats.vercel.app/api/top-langs/?username=jahangirjadi&show_icons=true&hide_border=true&layout=compact&langs_count=10&exclude_repo=boxshop,bella,taracode,university,newsfeed,devtools"/>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jahangirjadi&show_icons=true&locale=en" alt="JahangirJadi" /></p>
+<p>>&nbsp;https://github-readme-stats.vercel.app/api/top-langs/?username=jahangirjadi&layout=compact)](https://github.com/jahangirjadi/github-readme-stats</p>
 
 
