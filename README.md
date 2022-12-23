@@ -2,7 +2,7 @@
 
 - 🧑🏽‍💻 Android Developer @Kassim Denim
 - 💬 Ask me about **Kotlin, Java, MVVM, Android Jetpack**
-- 🌱 I’m currently learning Flutter, ARCore, Blockchain
+- 🌱 I’m currently learning Jetpack Compose, Flutter, ARCore, Web3
 - 📫 How to reach me **jahangir.jadi@gmail.com**
 
 <details>	
