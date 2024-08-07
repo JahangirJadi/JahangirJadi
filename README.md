@@ -1,8 +1,8 @@
 <h1>Hi 👋, I'm Jahangir Jadi</h1>
 
-- 🧑🏽‍💻 Mobile App Developer @Kassim Denim
-- 💬 Ask me about **Kotlin, Java, MVVM, Android Jetpack**
-- 🌱 I’m currently learning Jetpack Compose, Flutter, ARCore, Web3
+- 🧑🏽‍💻 Mobile App Developer @Supporting Hands Care Services
+- 💬 Ask me about **Kotlin, Java, MVVM, Android Jetpack, Jetpack Compose**
+- 🌱 I’m currently learning Multi Module Architecture, Flutter, ARCore, Web3
 - 📫 How to reach me **jahangir.jadi@gmail.com**
 
 <details>	
