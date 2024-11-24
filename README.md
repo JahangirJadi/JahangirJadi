@@ -2,7 +2,7 @@
 
 - 🧑🏽‍💻 Mobile App Developer @Supporting Hands Care Services
 - 💬 Ask me about **Kotlin, Java, MVVM, Android Jetpack, Jetpack Compose**
-- 🌱 I’m currently learning Multi Module Architecture, Flutter, ARCore, Web3
+- 🌱 I’m currently learning Multi-Module Architecture, Flutter, ARCore, Web3
 - 📫 How to reach me **jahangir.jadi@gmail.com**
 
 <details>	
