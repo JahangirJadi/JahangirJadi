@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning Multi-Module Architecture, Flutter, ARCore, Web3
 - 📫 How to reach me **jahangir.jadi@gmail.com**
 
+![](https://komarev.com/ghpvc/?username=jahangirjadi&base=100)
+
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jahangirjadi&show_icons=true&locale=en" alt="JahangirJadi" />
